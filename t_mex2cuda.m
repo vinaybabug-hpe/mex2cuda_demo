@@ -1,0 +1,4 @@
+
+mexDemoFunc(64);
+
+
